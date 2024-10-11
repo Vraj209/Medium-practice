@@ -6,8 +6,8 @@ compatibility_flags = [ "nodejs_compat" ]
 # [vars]
 # MY_VAR = "my-variable"
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiYmZlODRkOTYtMzJkYS00OTRlLTlkMDUtZDMwNDcxNmRkMDRkIiwidGVuYW50X2lkIjoiNWM3YTJkNTk0NmZiN2M5YWM5Mjg3NTQyY2NkOTcyYjVlY2E0OWQ4NTMwY2Y3ZDliZTczNzRhZDljNDAxN2Y0NyIsImludGVybmFsX3NlY3JldCI6ImE1NjIxZGM4LTc4YTAtNDU5OC1iMjU5LTRkYzI1OTFiZDA5ZCJ9.4YtHih_9DCqLwHianl8-8U7UvVns0t23JpTv82qek4c"
-JWT_SECRET = "password"
+#DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiYmZlODRkOTYtMzJkYS00OTRlLTlkMDUtZDMwNDcxNmRkMDRkIiwidGVuYW50X2lkIjoiNWM3YTJkNTk0NmZiN2M5YWM5Mjg3NTQyY2NkOTcyYjVlY2E0OWQ4NTMwY2Y3ZDliZTczNzRhZDljNDAxN2Y0NyIsImludGVybmFsX3NlY3JldCI6ImE1NjIxZGM4LTc4YTAtNDU5OC1iMjU5LTRkYzI1OTFiZDA5ZCJ9.4YtHih_9DCqLwHianl8-8U7UvVns0t23JpTv82qek4c"
+#JWT_SECRET = "password"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
